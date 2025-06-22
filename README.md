@@ -5,7 +5,7 @@
 
 ## 🎯 Objetivo do Projeto
 
-Este projeto tem como foco a aplicação prática das principais etapas de pré-processamento de dados utilizando Python e bibliotecas como Pandas, NumPy, Seaborn e Matplotlib. O conjunto de dados utilizado contém informações clínicas relacionadas ao diagnóstico de câncer de mama, e foi obtido a partir da plataforma Kaggle.
+Este projeto tem como objetivo a aplicação prática das principais etapas de pré-processamento de dados utilizando Python e bibliotecas como Pandas, NumPy, Seaborn e Matplotlib. O conjunto de dados utilizado contém informações clínicas relacionadas ao diagnóstico de câncer de mama, e foi obtido a partir da plataforma Kaggle.
 
 O pré-processamento é uma etapa essencial no fluxo de trabalho de ciência de dados, pois permite transformar dados brutos em um formato limpo, organizado e pronto para análise ou modelagem. Neste trabalho, foram realizadas operações como a verificação e tratamento de valores ausentes, análise univariada, transformação de variáveis categóricas, normalização e padronização dos atributos numéricos, além da geração de gráficos para apoio visual e estatísticas descritivas. 
 
