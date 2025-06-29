@@ -1,7 +1,7 @@
 # MVP - Análise de Dados e Pré-Processamento | PUC-RIO
 
 **Aluna:** Letícia Toniolo  
-**Acesse o notebook no Google Colab:** [Clique aqui para abrir](INSIRA_AQUI_O_LINK_DO_COLAB)
+**Acesse o notebook no Google Colab:** [Clique aqui para abrir](https://colab.research.google.com/github/lepanegossi/MVP_PUC_Analise_Dados/blob/main/MVP_PUC__Analise_Dados.ipynb#scrollTo=K3ROI9Tlbkr7)
 
 ## 🎯 Objetivo do Projeto
 
